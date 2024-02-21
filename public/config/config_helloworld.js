@@ -4,7 +4,7 @@ import block_richText from '../sbassets/blocks/common_richText/index.js';
 import block_code from '../sbassets/blocks/common_code/index.js';
 const config = {
 	"license": "",
-	"devKey": "MD9X_EFDR7A",
+	"devKey": "XXXXX",
     "themeColor": "#7d5828",
 	"themeDarkColor": "#101820",
     "assetsLocation": "##BASEADDRESS##/sbeditors",
