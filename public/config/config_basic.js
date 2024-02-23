@@ -9,7 +9,7 @@ const config = {
 	"helpUrl": "##BASEADDRESS##/helpDoc/index.html",
 	"assetsLocation": "##BASEADDRESS##/sbeditors",
 	"license": "",
-	"devKey": "XXXXX",
+	"devKey": "XXXXXX",
 	"themeColor": "#136853",
 	"themeDarkColor": "#0e4337",
 	"cleanupIds": ["scriptSbUtility"],

@@ -1,4 +1,4 @@
-# Simplicity Embed Vuejs Example (Vuejs + Typescript)
+# Simplicity Builder&trade; Vuejs Example (Vuejs + Typescript)
 
 This project demonstrates the use of the Simplicity Builder&trade; web component in a Vuejs starter project.
 
